@@ -2,7 +2,7 @@
   "showDialog": true,
   "appVersionCode": 1,
   "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
-  "updateButtonText": "Update",
+  "updateButtonText": "https://telegram.me/nregahunter",
   "updateButtonLink": "https://google.com",
   "updateButtonGradientStartColor": "#1E88E5",
   "updateButtonGradientEndColor": "#64B5F6",
