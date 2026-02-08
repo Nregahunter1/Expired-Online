@@ -15,7 +15,7 @@
       "nickname": "Myself"
     }
   ],
-  "maintenance": false,
+  "maintenance": true,
   "status": "online",
   "vip_message": ""
 }
