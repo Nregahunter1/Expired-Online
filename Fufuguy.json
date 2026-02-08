@@ -1,4 +1,3 @@
-[
 {
   "database": [
     {
@@ -15,9 +14,4 @@
       "key": "KING-TEAM",
       "nickname": "Myself"
     }
-  ],
-  "maintenance": "true",
-  "status": "online",
-  "vip_message": "hshsjjsj"
-}
-]
+  ]
