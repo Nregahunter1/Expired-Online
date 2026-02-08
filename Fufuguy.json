@@ -3,7 +3,7 @@
     {
       "device_id": "fe841b898286a6a2",
       "expiry_date": "28/02/2026",
-      "is_active": true,
+      "is_active": false,
       "key": "Admin",
       "nickname": "Admin Owner"
     },
