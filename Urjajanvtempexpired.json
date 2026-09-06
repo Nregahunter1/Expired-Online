@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "appVersionCode": 1,
   "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
   "updateButtonText": "Update",
-  "updateButtonLink": "https://google.com",
+  "updateButtonLink": "https://www.mediafire.com/file/8l8w1mcnrjpm5cd/URJA+Jan+Shakti+v5.0.2+Mod+es.apk/file",
   "updateButtonGradientStartColor": "#1E88E5",
   "updateButtonGradientEndColor": "#64B5F6",
   "cancelButtonText": "Cancel",
